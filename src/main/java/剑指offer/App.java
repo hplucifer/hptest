@@ -5,9 +5,6 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        while (input.hasNext()) {
-
+        System.out.println("新建分支");
         }
-    }
 }
